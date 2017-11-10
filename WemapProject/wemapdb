@@ -1,0 +1,76 @@
+{
+   "organization":{
+      "name":"Polito",
+      "branches":[
+         {
+            "name":"Cittadella Politecnica",
+            "size":"10000000",
+            "buldings":[
+               {
+                  "name":"I",
+                  "size":3000,
+                  "rooms":[
+                     {
+                        "name":"1I",
+                        "floorno":"-1",
+                        "barcodeNo":"room1I",
+                        "shape":"flat",
+                        "size":50
+                     },
+                     {
+                        "name":"2I",
+                        "floorno":"-1",
+                        "barcodeNo":"room2I",
+                        "shape":"flat",
+                        "size":100
+                     }
+                  ]
+               },
+
+               {
+                  "name":"T",
+                  "size":3000,
+                  "rooms":[
+                     {
+                        "name":"1T",
+                        "floorno":"0",
+                        "barcodeNo":"room1T",
+                        "shape":"flat",
+                        "size":50
+                     },
+                     {
+                        "name":"2T",
+                        "floorno":"0",
+                        "barcodeNo":"room2T",
+                        "shape":"flat",
+                        "size":100
+                     }
+                  ]
+               },
+
+               {
+                  "name":"MN",
+                  "size":3000,
+                  "rooms":[
+                     {
+                        "name":"1M",
+                        "floorno":"0",
+                        "barcodeNo":"room1M",
+                        "shape":"slope",
+                        "size":50
+                     },
+                     {
+                        "name":"2N",
+                        "floorno":"1",
+                        "barcodeNo":"room2N",
+                        "shape":"slope",
+                        "size":100
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}
+
